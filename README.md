@@ -1,6 +1,6 @@
 # C# project:
 
-<h1 align="center">🌟 Title: Physics4KIdz 🌟</h1>
+# 🌟 Title: Physics4KIdz 🌟
 
 # 🚀 Introduction: 
 Physics4KIdz is a desktop application created to help young children learn about physics in an 
