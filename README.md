@@ -59,11 +59,13 @@ following purposes:<br>
 • User Input: Children are prompted to enter their name, creating a personalized 
 experience.<br> 
 • Navigation: A "Get Started" button directs users to the table of contents page<br>
+![Alt text](images/your_image_filename.png)
 
 _Table of Contents:_<br> 
 The table of contents page provides an overview of all available topics. Each topic is 
 represented by a button, allowing children to select the topic they wish to learn about. There 
 is also a button for accessing the quiz module<br>
+![Alt text](images/your_image_filename.png)
 
 _Topic Content Pages:_  
 Each topic content page is designed to present information in a clear and engaging manner. 
@@ -74,6 +76,10 @@ related to the selected topic.<br>
 text is animated to appear as if being written out letter by letter.<br> 
 • Text-to-Speech: A small speaker button allows the text content to be read aloud, 
 aiding visually impaired children and enhancing overall accessibility.<br>
+![Alt text](images/your_image_filename.png)
+![Alt text](images/your_image_filename.png)
+![Alt text](images/your_image_filename.png)
+![Alt text](images/your_image_filename.png)
 
 _Quiz Module:_<br> 
 The quiz module is designed to assess the children’s understanding of the physics concepts 
@@ -83,6 +89,7 @@ and presented one at a time.<br>
 • Answer Selection: Children can select their answers using radio buttons.<br> 
 • Immediate Feedback: The module provides immediate feedback on whether the 
 selected answer is correct or incorrect, helping to reinforce learning.<br>
+![Alt text](images/your_image_filename.png)
 
 ---
 
