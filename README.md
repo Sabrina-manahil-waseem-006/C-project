@@ -53,21 +53,29 @@ components of the system include the welcome page, table of contents, topic cont
 and the quiz module. The design prioritizes user-friendliness, visual appeal, and accessibility 
 for children with special needs. 
 
-_Welcome Page_:<br> 
+_1) Welcome Page_:<br> 
 The welcome page is the first screen users see upon launching the application. It serves the 
 following purposes:<br>
 • User Input: Children are prompted to enter their name, creating a personalized 
 experience.<br> 
 • Navigation: A "Get Started" button directs users to the table of contents page<br>
-![Alt text](images/your_image_filename.png)
 
-_Table of Contents:_<br> 
+
+---
+![Alt text](
+https://github.com/Sabrina-manahil-waseem-006/C-project/blob/main/1.JPG )
+
+---
+_2) Table of Contents:_<br> 
 The table of contents page provides an overview of all available topics. Each topic is 
 represented by a button, allowing children to select the topic they wish to learn about. There 
 is also a button for accessing the quiz module<br>
-![Alt text](images/your_image_filename.png)
 
-_Topic Content Pages:_  
+---
+![Alt text](https://github.com/Sabrina-manahil-waseem-006/C-project/blob/main/2.JPG)
+
+
+_3) Topic Content Pages:_  
 Each topic content page is designed to present information in a clear and engaging manner. 
 The design includes:<br> 
 • Video Content: A video player on the right-hand side displays educational videos 
@@ -76,12 +84,15 @@ related to the selected topic.<br>
 text is animated to appear as if being written out letter by letter.<br> 
 • Text-to-Speech: A small speaker button allows the text content to be read aloud, 
 aiding visually impaired children and enhancing overall accessibility.<br>
-![Alt text](images/your_image_filename.png)
-![Alt text](images/your_image_filename.png)
-![Alt text](images/your_image_filename.png)
-![Alt text](images/your_image_filename.png)
 
-_Quiz Module:_<br> 
+
+![Alt text](https://github.com/Sabrina-manahil-waseem-006/C-project/blob/main/3.JPG)
+![Alt text]( https://github.com/Sabrina-manahil-waseem-006/C-project/blob/main/4.JPG  )
+![Alt text](https://github.com/Sabrina-manahil-waseem-006/C-project/blob/main/5.JPG)
+![Alt text](https://github.com/Sabrina-manahil-waseem-006/C-project/blob/main/6.JPG)
+
+
+_4) Quiz Module:_<br> 
 The quiz module is designed to assess the children’s understanding of the physics concepts 
 they have learned. Key features include:<br> 
 • Question Presentation: Questions are retrieved from a Microsoft Access database 
@@ -89,7 +100,11 @@ and presented one at a time.<br>
 • Answer Selection: Children can select their answers using radio buttons.<br> 
 • Immediate Feedback: The module provides immediate feedback on whether the 
 selected answer is correct or incorrect, helping to reinforce learning.<br>
-![Alt text](images/your_image_filename.png)
+
+
+
+![Alt text](https://github.com/Sabrina-manahil-waseem-006/C-project/blob/main/7.JPG
+)
 
 ---
 
@@ -107,8 +122,7 @@ and management.
 ---
 # ✅ Conclusion:
 Physics4KIdz is a fun and accessible app designed to teach young children physics. It covers topics like volcanoes, rainbows, gravity, and the solar system with simple explanations, videos, and animations. The app features text-to-speech for visually impaired children and clear content for hearing-impaired children. A quiz section reinforces learning with instant feedback. Future improvements could include more topics, interactive activities, and enhanced accessibility, ensuring Physics4KIdz continues to educate and inspire.
-
-
+                                                                                                                                                                                                                 
 
 
 
