@@ -1,4 +1,4 @@
-# C# project:
+# C# PROJECT:
 
 # 🌟 Title: Physics4KIdz 🌟
 
